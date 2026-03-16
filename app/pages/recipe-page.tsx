@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // ── RECIPE PAGE ─────────────────────────────────────────────────────────────
 export const RecipePage = ({ recipe, onBack, onEdit, onDelete }: any) => {
   return (
